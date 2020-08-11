@@ -1,0 +1,21 @@
+h1{
+  color: blue;
+  font-weight: 500;
+}
+
+.mountain img{
+  filter: drop-shadow(2px 4px 6px black)
+}
+
+.background-grey{
+  background-color: grey;
+  width: 43%;
+}
+
+.d-flex{
+  display: flex;
+}
+
+.italic-font{
+  font-style: italic;
+}
